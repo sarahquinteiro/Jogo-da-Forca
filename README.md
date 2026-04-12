@@ -83,4 +83,4 @@ dart test
 
 ## 📄 Licença
 
-MIT © 2025
+MIT License © 2026
